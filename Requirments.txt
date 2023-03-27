@@ -1,0 +1,38 @@
+System Cores:
+1- Reports 
+2- Alarm with limited period 
+3- Authorization (Manager, users..etc)
+4- 3 inventories
+--------------------------
+Scenario 1 (manager):  
+	
+	1-login with his username and password
+	
+	Add products:
+	2-
+	3-
+	
+	Subtract products:
+	2-
+	3-
+	 
+-Managers can add users or delete users
+-Managers and Manager of inventories can generate reports
+
+Scenario 2 امين المخازن:
+
+	1-Login
+	2-add
+	3-subtract
+
+Scenario 3 Manager of inventories:
+	
+	-login
+	-generate reports only
+
+---------------
+General Requirments
+-All users can change their passwords
+-All users should link his password with his gmail or phone
+-All users should alarmed with an alert for any decreasing in items
+---------------
